@@ -4,7 +4,7 @@
     detail: Boeing
     i18n: boeing
   desc:
-    detail: At Boeing I worked in the infrastructure team, created data retrieval scripts, and was part of a Mars Rover proposal group
+    detail: At Boeing I worked in the infrastructure team, created data retrieval scripts, and was part of a Mars Rover proposal group.
     i18n: boeing_des
   date:
     detail: May. 2016
@@ -32,7 +32,7 @@
     detail: Started University
     i18n: university
   desc:
-    detail: Started my college career at the Massachusetts Institute of Technology working towards my B.S. in Computer Science
+    detail: Started my college career at the Massachusetts Institute of Technology working towards my B.S. in Computer Science.
     i18n: university_des
   date:
     detail: Sep. 2015
@@ -43,10 +43,10 @@
   icon: fa-book
   
 - name:
-    detail: Graduated High School
+    detail: High School Graduation
     i18n: high_school
   desc:
-    detail: Graduated from Miami Lakes Educational Center with a concentration in Networking through Cisco's Networking Academy
+    detail: Graduated from Miami Lakes Educational Center with a concentration in Networking through Cisco Networking Academy.
     i18n: high_school_des
   date:
     detail: Jun. 2015
