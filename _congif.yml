@@ -1,28 +1,27 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "David Pacheco's Website"
+description: "David Pacheco's personal website."
+keywords: "David,Pacheco,blog,MIT,github"
 baseurl: "/"
-url: "http://www.jack003.com"
-# url: "http://127.0.0.1:4000"
+url: "http://www.davidmv74.github.io"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'JiaKunUp'
+  name: 'David Pacheco'
+  first_name: 'David'
+  last_name: 'Pacheco'
+  email: 'davidmv74@gmail.com'
+  facebook_username: 'david.pachecogarcia'
+  github_username: 'davidmv74'
   head_img: 'static/img/landing/Jack.jpg'
-  desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  desc: 'I am a Sophomore at the Massachusetts Institute of Technology studying Computer Science and Electrical Engineering. I am passionate about world-changing technology - from Virtual Reality or Artificial Intelligence to Space Exploration. Always ready to hear interesting ideas and collaborate in projects for local or global communities.'
 
 # localization
 languages:
-  - locale: 'zh'
-    flag: 'static/img/flags/China.png'
+  - locale: 'es'
+    flag: 'static/img/flags/Spain.png'
   - locale: 'en'
     flag: 'static/img/flags/United-States.png'
 
@@ -34,29 +33,22 @@ donate:
   wechat1: 'static/img/pay/w1.jpeg'
   wechat5: 'static/img/pay/w5.jpeg'
 
-# comment
-changyan:
-  # appid: cysfY7ULn
-  # conf: prod_861928934cecb7a18e15bedaed9dae29
-disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+# comment 
+#disqus:
+#  name: jalpc
+#  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
-
-# baidu analytics
-ba:
-  # uuid: 317acca9ef9255b934e46371e471431d
+#bshare:
+#  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
 
 # google analytics
-ga:
-  id: UA-73784599-1
+#ga:
+#  id: UA-73784599-1
 
 # growingIO
-gio:
-  id: a49d4901c7853da9
+#gio:
+#  id: a49d4901c7853da9
 
 # Build settings
 encoding: "utf-8"
