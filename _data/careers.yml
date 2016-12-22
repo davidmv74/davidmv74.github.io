@@ -30,16 +30,16 @@
 
 - name:
     detail: Started University
-    i18n: college
+    i18n: university
   desc:
     detail: Started my college career at the Massachusetts Institute of Technology working towards my B.S. in Computer Science
-    i18n: college_des
+    i18n: university_des
   date:
     detail: Sep. 2015
-    i18n: college_date
+    i18n: university_date
   job:
     detail: Student
-    i18n: college_job
+    i18n: university_job
   icon: fa-book
   
 - name:
