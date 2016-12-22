@@ -14,7 +14,7 @@
     i18n: boeing_job
   icon: fa-cloud
   
-  - name:
+- name:
     detail: Alphadyne Asset Management 
     i18n: alpha
   desc:
@@ -42,7 +42,7 @@
     i18n: college_job
   icon: fa-book
   
-  - name:
+- name:
     detail: Graduated High School
     i18n: high_school
   desc:
