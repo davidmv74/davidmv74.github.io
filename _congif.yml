@@ -20,8 +20,6 @@ author:
 
 # localization
 languages:
-  - locale: 'es'
-    flag: 'static/img/flags/Spain.png'
   - locale: 'en'
     flag: 'static/img/flags/United-States.png'
 
