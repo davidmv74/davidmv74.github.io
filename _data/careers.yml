@@ -1,56 +1,57 @@
 # careers section data
-- name:
-    detail: Nextcode
-    i18n: nextcode
-  desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
-  date:
-    detail: Apr. 2016
-    i18n: nextcode_date
-  job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Boeing
+    i18n: boeing
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: At Boeing I worked in the infrastructure team, created data retrieval scripts, and was part of a Mars Rover proposal group
+    i18n: boeing_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: May. 2016
+    i18n: boeing_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
-
-- name:
-    detail: Ucloud
-    i18n: ucloud
+    detail: IT Intern
+    i18n: boeing_job
+  icon: fa-cloud
+  
+  - name:
+    detail: Alphadyne Asset Management 
+    i18n: alpha
   desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
+    detail: At Alphadyne I strengthened their Firewall security and proposed a logging system to monitor the network. 
+    i18n: alpha_des
   date:
-    detail: Sep. 2013
-    i18n: ucloud_date
+    detail: Jan. 2016
+    i18n: alpha_date
   job:
-    detail: Dev Ops
-    i18n: ucloud_job
+    detail: IT Intern
+    i18n: alpha_job
   icon: fa-cloud
 
 - name:
-    detail: Graduation
+    detail: Started University
     i18n: college
   desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
+    detail: Started my college career at the Massachusetts Institute of Technology working towards my B.S. in Computer Science
     i18n: college_des
   date:
-    detail: Jul. 2013
+    detail: Sep. 2015
     i18n: college_date
   job:
     detail: Student
     i18n: college_job
+  icon: fa-book
+  
+  - name:
+    detail: Graduated High School
+    i18n: high_school
+  desc:
+    detail: Graduated from Miami Lakes Educational Center with a concentration in Networking through Cisco's Networking Academy
+    i18n: high_school_des
+  date:
+    detail: Jun. 2015
+    i18n: high_school_date
+  job:
+    detail: Student
+    i18n: high_school_job
   icon: fa-book
